@@ -47,3 +47,8 @@ h2, h3, h4, h5, h6 {
 #penelope ul {
     list-style-type: none;
 }
+
+#peter span {
+    font-size: 1.5em;
+    color: #B48CE0;
+}
